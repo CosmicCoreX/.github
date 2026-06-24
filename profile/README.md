@@ -38,8 +38,8 @@ The organization focuses on providing clean and reliable sources for custom ROM 
 
 | Codename | Device |
 |----------|---------|
-| `garnet` | Redmi Note 13 Pro 5G |
-| `sky` | Redmi Note 12R Pro / POCO X5 |
+| `garnet` | Redmi Note 13 Pro 5G / Poco X6 |
+| `sky` | Redmi Note 12R Pro / Poco M6 PRO |
 | `violet` | Redmi Note 7 Pro |
 
 Additional devices may be added over time.
@@ -54,21 +54,6 @@ Additional devices may be added over time.
 | Kernel Sources | Linux kernel sources and modifications |
 | Vendor Trees | Proprietary vendor blobs and configurations |
 | Common Trees | Shared device resources and configurations |
-
----
-
-## Goals
-
-- Maintain stable sources.
-- Keep repositories updated.
-- Support custom ROM development.
-- Improve device bring-up experience.
-
----
-
-## Disclaimer
-
-These repositories are provided for development and educational purposes. Flashing custom software may void warranties and carries inherent risks. Users are responsible for their own devices and data.
 
 ---
 
